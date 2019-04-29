@@ -1,5 +1,6 @@
-top:=10
-bottom:=20
-left:=10
-right:=20
-suffix:_cropped
+top:=50
+bottom:=200
+left:=100
+right:=400
+input_suffix:=tif
+output_suffix:=_cropped
