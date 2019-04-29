@@ -1,0 +1,5 @@
+top:=10
+bottom:=20
+left:=10
+right:=20
+suffix:_cropped
